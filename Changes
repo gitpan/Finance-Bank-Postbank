@@ -1,0 +1,6 @@
+Revision history for Perl extension Finance::Bank::Postbank.
+
+0.01  Sat Jan 11 12:28:10 2003
+	- original version; created by h2xs 1.21 with options
+		-X Finance::Bank::Postbank
+
